@@ -3,7 +3,7 @@
   <!-- Анимированный заголовок -->
   <h1 align="center"> 
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Привет%2C+!;Я+студент-разработчик;Python%2FJS%2FC%2B%2B;" alt="Типинг-анимация" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Привет!;Я+студент-разработчик;Python%2FJS%2FC%2B%2B;" alt="Типинг-анимация" />
     </a>
   </h1>
 
