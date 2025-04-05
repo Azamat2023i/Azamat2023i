@@ -1,4 +1,3 @@
-<div style="height: 1px; overflow: hidden; position: absolute; top: -1000px;"></div>
 
 <div align="center">
   
