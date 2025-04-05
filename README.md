@@ -3,7 +3,7 @@
   <!-- Анимированный заголовок -->
   <h1 align="center"> 
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Привет%2C+я+Азамат!;Студент-разработчик;Python%2FJS%2FC%2B%2B;Люблю+сложные+задачи" alt="Типинг-анимация" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Привет%2C+!;Я+студент-разработчик;Python%2FJS%2FC%2B%2B;" alt="Типинг-анимация" />
     </a>
   </h1>
 
@@ -12,14 +12,11 @@
 
   <!-- Соцсети -->
   <p align="center">
-    <a href="https://t.me/твой_ник">
+    <a href="https://t.me/REYIL">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="mailto:твой@email.com">
+    <a href="mailto:azamatilbulov015@email.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://leetcode.com/твой_ник/">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
     </a>
   </p>
 </div>
@@ -54,9 +51,9 @@
 
 <div align="center">
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Azamat2023i&show_icons=true&theme=radical)
+  ![Простая статистика](https://github-readme-stats.vercel.app/api?username=Azamat2023i&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333&icon_color=20C20E)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat2023i&layout=compact&theme=radical)
+  ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat2023i&layout=compact&hide_border=true&bg_color=00000000&title_color=20C20E)
 
 </div>
 
