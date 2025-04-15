@@ -47,20 +47,3 @@
 
 ---
 
-### 📊 GitHub статистика
-
-<div align="center">
-  
-  ![Простая статистика](https://github-readme-stats.vercel.app/api?username=Azamat2023i&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333&icon_color=20C20E)
-  
-  ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat2023i&layout=compact&hide_border=true&bg_color=00000000&title_color=20C20E)
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Azamat2023i/Azamat2023i/blob/output/github-contribution-grid-snake.svg)
-
-</div>
