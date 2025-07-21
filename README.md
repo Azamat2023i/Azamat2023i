@@ -1,49 +1,24 @@
+# Привет, я Азамат! 👋
 
-<div align="center">
-  
-  <!-- Анимированный заголовок -->
-  <h1 align="center"> 
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Привет!;Я+студент-разработчик;Python%2FJS%2FC%2B%2B;" alt="Типинг-анимация" />
-    </a>
-  </h1>
+Я — начинающий разработчик и студент, учусь на программиста и с увлечением создаю полезные цифровые решения.
 
-  <!-- Баннер с гифкой/изображением -->
-  <img src="https://i.gifer.com/origin/2d/2d8d3a8e9a94a0a09f0d4e0e0e0e0e0e.gif" width="600" alt="Баннер">
+- 🌐 Создаю сайты под заказ
+- 🤖 Пишу автоматизации и Telegram-ботов
+- 💻 Мой основной язык — Python
+- 🛠️ Работал с Django, Flask, aiogram
+- 🧑‍💻 Также знаком с JavaScript, HTML, CSS
+- 🎓 Студент, всегда открыт к новым знаниям и задачам
+- 💼 Работаю на фрилансе
 
-  <!-- Соцсети -->
-  <p align="center">
-    <a href="https://t.me/REYIL">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="mailto:azamatilbulov015@email.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-  </p>
-</div>
+## 📫 Связаться со мной
+
+- Telegram: [@REYIL](https://t.me/REYIL)
+
+## ⚡ Немного о себе
+
+Программирование — не только моя будущая профессия, но и главное хобби. Люблю разрабатывать что-то новое и автоматизировать повседневные задачи.
 
 ---
 
-### 🛠 Мой стек технологий
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
----
-
-### 🔥 Мои проекты
-
-| Проект | Описание | Технологии |
-|--------|----------|-------------|
-| **[Server Management Telegram Bot](https://github.com/Azamat2023i/ServerManagementTelegramBot)** | Бот для управления Linux сервером через Telegram с использованием aiogram 3.x. Позволяет выполнять команды, мониторить состояние сервера и работать с файлами. | Python, aiogram 3.X |
-| **[Дополнение для обработки HTML в Telethon](https://github.com/Azamat2023i/ADDON_TELETHON)** | Это дополнение улучшает возможности обработки HTML в библиотеке Telethon | Python, telethon |
-
----
+Спасибо, что заглянули в мой профиль!
 
