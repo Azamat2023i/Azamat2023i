@@ -5,7 +5,7 @@
 - 🌐 Создаю сайты
 - 🤖 Пишу автоматизации и Telegram-ботов
 - 💻 Мой основной язык — Python
-- 🛠️ Работал с Django, Flask, aiogram, telethon, CromaBD, ...
+- 🛠️ Работал с Django, Flask, aiogram, telethon, ChromaDB, ...
 - 🧑‍💻 Также знаком с JavaScript, HTML, CSS
 - 🎓 Студент, всегда открыт к новым знаниям и задачам
 - 💼 Работаю на фрилансе
